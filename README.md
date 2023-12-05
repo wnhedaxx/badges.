@@ -1,4 +1,4 @@
-# badges.
+
 # degods.aleo
 
 Hello everyone, twitter id oxdoxo
